@@ -1,2 +1,3 @@
 # Games in C#
-Unpublished games in C#
+### Unpublished games in C#
+**C#** (pronounced "C-sharp") is a modern, object-oriented programming language developed by Microsoft as part of its .NET framework. Designed to be simple, yet powerful, C# combines features from C++ and Java with additional enhancements for ease of use and productivity. It is widely used for developing Windows applications, web services, and enterprise software, and supports a variety of programming paradigms including object-oriented, functional, and imperative programming. C# provides strong type safety, automatic memory management through garbage collection, and rich support for modern programming practices, including asynchronous programming and LINQ (Language Integrated Query). With its integration into the .NET ecosystem, C# offers a comprehensive set of libraries and tools, making it a popular choice for developers working on both desktop and cloud-based applications.
